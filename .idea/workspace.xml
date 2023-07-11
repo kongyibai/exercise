@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a694a1f0-e064-4900-b84c-a7609f334cbf" name="Changes" comment="提交配置文件">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise/StringExercise1.java" afterDir="false" />
+    <list default="true" id="a694a1f0-e064-4900-b84c-a7609f334cbf" name="Changes" comment="配置环境">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +13,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -43,6 +43,9 @@
         <option name="jdkForImporter" value="11" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="2SQERCsyYL7F2PlXx5zmMNaG7RY" />
   <component name="ProjectLevelVcsManager">
@@ -68,7 +71,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "copyright.profiles",
+    "settings.editor.selected.configurable": "preferences.updates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1689070394061</updated>
       <workItem from="1689070395331" duration="1488000" />
-      <workItem from="1689072022224" duration="395000" />
+      <workItem from="1689072022224" duration="944000" />
+      <workItem from="1689072984030" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="提交配置文件">
       <created>1689070601243</created>
@@ -117,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689070834516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置环境">
+      <created>1689072493483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689072493483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +147,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交配置文件" />
+    <MESSAGE value="配置环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置环境" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
