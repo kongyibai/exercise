@@ -1,4 +1,4 @@
-package com.baiyikong.connection;
+package com.baiyikong.connectiondemo;
 
 public class User {
     private int id;
