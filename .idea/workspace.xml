@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="配置文件">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/connection/ConnectionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/connection/ConnectionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/connection/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringBuilderDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringBuilderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise/StringExercise1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +69,9 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "D:/05_WorkData/trs/apollo_console",
     "node.js.detected.package.eslint": "true",
@@ -78,13 +86,65 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Start" />
+  <component name="RunManager" selected="Application.ConnectionDemo2">
+    <configuration name="ConnectionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baiyikong.connection.ConnectionDemo1" />
       <module name="exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="com.baiyikong.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baiyikong.connection.ConnectionDemo2" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baiyikong.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baiyikong.stringdemo.StringBuilderDemo2" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baiyikong.stringdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baiyikong.stringdemo.StringDemo1" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baiyikong.stringdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baiyikong.stringdemo.StringDemo2" />
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baiyikong.stringdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,14 +154,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.ConnectionDemo2" />
+        <item itemvalue="Application.ConnectionDemo1" />
+        <item itemvalue="Application.StringDemo2" />
+        <item itemvalue="Application.StringDemo1" />
+        <item itemvalue="Application.StringBuilderDemo2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a694a1f0-e064-4900-b84c-a7609f334cbf" name="Changes" comment="" />
+      <changelist id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="配置文件" />
       <created>1689070394061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -109,6 +173,7 @@
       <workItem from="1689070395331" duration="1488000" />
       <workItem from="1689072022224" duration="944000" />
       <workItem from="1689072984030" duration="121000" />
+      <workItem from="1689129084775" duration="9598000" />
     </task>
     <task id="LOCAL-00001" summary="提交配置文件">
       <created>1689070601243</created>
@@ -131,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689072493483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="配置文件">
+      <created>1689129096153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689129096153</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交配置文件" />
     <MESSAGE value="配置环境" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置环境" />
+    <MESSAGE value="配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置文件" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
