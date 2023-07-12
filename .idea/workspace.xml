@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="练习基础代码字符串，数组，集合">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/interfacedemo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="练习一下接口，导包" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689147716503</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="练习一下接口，导包">
+      <created>1689184183082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689184183082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +227,8 @@
     <MESSAGE value="配置环境" />
     <MESSAGE value="配置文件" />
     <MESSAGE value="练习基础代码字符串，数组，集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习基础代码字符串，数组，集合" />
+    <MESSAGE value="练习一下接口，导包" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习一下接口，导包" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
