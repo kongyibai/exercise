@@ -9,6 +9,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exercise" />
+        <module name="mavendemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
