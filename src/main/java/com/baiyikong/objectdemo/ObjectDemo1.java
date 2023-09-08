@@ -2,13 +2,13 @@ package com.baiyikong.objectdemo;
 
 public class ObjectDemo1 {
     public static void main(String[] args) {
-        Student.setTeacherName("老师");
+        //练习一下object的常用方法
 
-        Student stu1 = new Student();
-        Student stu2 = new Student();
-        Student stu3 = new Student();
-
-        stu1.setName("xx");
+        String s = "test";
+        Class<? extends String> sClass = s.getClass();
+        System.out.println(sClass);
+        int hashCode = s.hashCode();
+        System.out.println(hashCode);
 
     }
 }
