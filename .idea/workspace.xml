@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/arrdemo/ArrDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/bigdecimaldemo/BigDecimalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/bigdecimaldemo/BigDecimalDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/concurrencydemo/ConcurrencyDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/concurrencydemo/Thread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/connectiondemo/ConnectionDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/DIYException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/exceptiondemo/ExceptionTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/mapdemo/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/nullpointer/NullPointerDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/nullpointer/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/objectdemo/ObjectDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/solutiondemo/SolutionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/streamdemo/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/streamdemo/StreamDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/streamdemo/StreamDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/stringdemo/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/SellTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/TestRunnable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/TestThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/TheadDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/ThreadDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/threaddemo/ThreadDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/timedemo/TimeDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/timedemo/TimeDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/zipdemo/ZipDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/zipdemo/ZipDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_7_12_20_10_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_7_12_20_10__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baiyikong/objectdemo/ObjectDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/objectdemo/ObjectDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baiyikong/streamdemo/StreamDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/streamdemo/StreamDemo2.java" afterDir="false" />
-    </list>
+    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +179,7 @@
       <workItem from="1693366935717" duration="1438000" />
       <workItem from="1693797935491" duration="11145000" />
       <workItem from="1694050398549" duration="13832000" />
-      <workItem from="1694135781223" duration="14044000" />
+      <workItem from="1694135781223" duration="14441000" />
     </task>
     <task id="LOCAL-00001" summary="提交配置文件">
       <created>1689070601243</created>
@@ -269,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689675810358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现">
+      <created>1694158737307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694158737307</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +261,8 @@
     <MESSAGE value="练习基础代码字符串，数组，集合" />
     <MESSAGE value="练习一下接口，导包" />
     <MESSAGE value="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目，" />
-    <option name="LAST_COMMIT_MESSAGE" value="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目，" />
+    <MESSAGE value="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
