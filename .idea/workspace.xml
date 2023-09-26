@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现" />
+    <list default="true" id="c421609f-0375-41e8-8f24-84fb9d3903c0" name="Changes" comment="概念等知识一定要弄清楚，这是进行逻辑处理的基础，开始准备做自己的项目&#10;需求到技术原理到代码实现">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baiyikong/containerdemo/ContainerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +182,9 @@
       <workItem from="1693366935717" duration="1438000" />
       <workItem from="1693797935491" duration="11145000" />
       <workItem from="1694050398549" duration="13832000" />
-      <workItem from="1694135781223" duration="14441000" />
+      <workItem from="1694135781223" duration="17062000" />
+      <workItem from="1694571242117" duration="6000" />
+      <workItem from="1695632537046" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="提交配置文件">
       <created>1689070601243</created>
